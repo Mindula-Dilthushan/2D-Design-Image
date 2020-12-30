@@ -1,2 +1,2 @@
 # 2D-Design-Image
-# [alt img](https://drive.google.com/file/d/1LFLDXevnjUYq1S3VfeC-TpoKrTCfMbCl/view?usp=sharing)
+# [2D DESIGN IMAGE](https://github.com/Mindula-Dilthushan/2D-Design-Image.git/asserts/SharedScreenshot.jpg)
