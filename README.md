@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Mindula-Dilthushan/2D-Design-Image/blob/master/asserts/SharedScreenshot.jpg">
+<img src="https://github.com/Mindula-Dilthushan/2D-Design-Image/blob/master/assets/2D.jpg">
 </div>
 
 #### Clone this repository ✅
