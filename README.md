@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![image](https://github.com/Mindula-Dilthushan/2D-Design-Image/blob/master/asserts/SharedScreenshot.jpg)
+<img src="https://github.com/Mindula-Dilthushan/2D-Design-Image/blob/master/asserts/SharedScreenshot.jpg">
 </div>
 
 #### Clone this repository ✅
